@@ -8,6 +8,7 @@
 
 ![Tripfkn's GitHub stats](https://github-readme-stats.vercel.app/api?username=tripfkn&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripfkn&hide_progress=true)
 
 ### 
 As tecnologias que permeiam minha jornada diária.
